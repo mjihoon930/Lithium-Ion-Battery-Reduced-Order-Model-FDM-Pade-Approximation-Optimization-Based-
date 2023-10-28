@@ -11,7 +11,9 @@ The code contains various models.
 1) Finite Difference Method Model with Nonlinear Degradation. (FDM NM Model) 
 1) Pade Approximation Model without Degradation (Pade Model) 
 1) Pade Approximation Model with Degradation (Pade-D Model) 
-1) Optimization-Based Model (O-B Model) 
+1) Optimization-Based Model (O-B Model)
+
+
 1) Simulink (Open “battery\_cell\_model.slx”) 
 
 FDM Model ![](Aspose.Words.216cfff8-f125-45da-a508-b96c3d48f685.001.jpeg)
