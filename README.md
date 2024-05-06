@@ -1,6 +1,22 @@
 # Lithium-Ion-Battery-Reduced-Order-Model-FDM-Pade-Approximation-Optimization-Based-
 
-Lithium-Ion Battery Single Particle Model Tutorial 
+#Publication: Reduction of Lithium-Ion Battery Models with Degradation Dynamics: A Comparison of Techniques
+
+If you use this software in your publications, please cite it using the following BibTeX entry:
+
+@article{moon2022reduction,
+  title={Reduction of Lithium-Ion Battery Models with Degradation Dynamics: A Comparison of Techniques},
+  author={Moon, Jihoon and Docimo, Donald J},
+  journal={IFAC-PapersOnLine},
+  volume={55},
+  number={37},
+  pages={718--725},
+  year={2022},
+  publisher={Elsevier}
+}
+
+
+# Lithium-Ion Battery Single Particle Model Tutorial 
 
 Lithium-Ion Battery Single Particle Model is the code to simulate the lithium-ion battery cell model.  
 
