@@ -1,6 +1,6 @@
 # Lithium-Ion-Battery-Reduced-Order-Model-FDM-Pade-Approximation-Optimization-Based-
 
-#Publication: Reduction of Lithium-Ion Battery Models with Degradation Dynamics: A Comparison of Techniques
+Publication: Reduction of Lithium-Ion Battery Models with Degradation Dynamics: A Comparison of Techniques
 
 If you use this software in your publications, please cite it using the following BibTeX entry:
 
